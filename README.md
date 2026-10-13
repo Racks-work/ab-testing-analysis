@@ -1,4 +1,4 @@
-# ab-testing-analysis[README.md](https://github.com/user-attachments/files/33404455/README.md)
+# [README.md](https://github.com/user-attachments/files/33404455/README.md)
 # A/B Testing: Campaign Purchase Likelihood
 
 A reproducible statistical analysis of survey responses for Campaign A versus Campaign B, drawn from a Chapter 6 coursework dataset. Ratings measure **stated purchase likelihood (1 = very unlikely, 7 = very likely)**, **not observed conversions**.
